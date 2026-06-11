@@ -4,6 +4,16 @@
 
 This repository is not a generated website. It contains the rules and workflow that an agent follows when creating a new website.
 
+## Preview
+
+The images below show one example website generated with `create-website-agent`.
+
+![Example generated website screenshots](previews/generated-website-screenshots.png)
+
+## Interaction Demo
+
+![Generated website demo flow](previews/generated-website-demo.gif)
+
 ## What It Generates
 
 - React + TypeScript + Vite
