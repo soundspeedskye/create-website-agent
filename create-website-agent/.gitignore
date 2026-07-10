@@ -9,6 +9,8 @@ node_modules/
 dist/
 coverage/
 .vite/
+.DS_Store
+**/DS_Store
 
 *.log
 
